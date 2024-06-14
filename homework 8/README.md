@@ -1,1 +1,0 @@
-# CRUD Server based on [tutorial](https://dev.to/samzhangjy/restful-crud-with-golang-for-beginners-23ia#defining-database-models)
